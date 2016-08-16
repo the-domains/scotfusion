@@ -1,0 +1,14 @@
+layout_spectrum: 0.06449938146397471
+typography_spectrum: 0.99797806260176
+color:
+  brandStrength: 0.4273119028657675
+  lightness: 0.6220951466821134
+  saturation: 0.3204108038917184
+  rhythmicContrast: 0.05621430347673595
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+name: Scotfusion
